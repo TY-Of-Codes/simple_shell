@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * Auth: Emma Udeji
- * 		 Pericles Adjovi
+ * Auth: Franca Uvere
+ *       Atoro-Tywo Olatomiwa
  *
  * Description:
  * the extended functions for main.c
@@ -172,4 +172,3 @@ char *_getenv(char *name)
 	}
 	return (NULL);
 }
-
