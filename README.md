@@ -16,7 +16,7 @@ Background Context
 ------------------
 
 Write a simple UNIX command interpreter.
-![bitcoin-photo](https://user-images.githubusercontent.com/105139294/183744006-2faa0c93-923d-4446-bded-3f341158fe0a.jpg)
+
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 
 
